@@ -1,0 +1,17 @@
+1. HTTP: (Hyper Text Transfer Protocol) A way of browsers and servers communicate.
+2. URL: (Uniform Resource Locator) Web address.
+3. DNS: (Domain Name System) Work as a global phone book for web.
+4. Query string: A way of request extra resource from the web with key and value(?a=1)
+5. GET/POST: Get - get data from the server(not change or impact to any) / Post - send data to the server(has an impact in server data)
+6. HTTP request: request form (following request protocol) to ask data from the server.
+7. HTTP response: Server got the request and send back to web browser the data and context with .html, .js. and .css.
+8.HTTP header: After request data from the server, server send some other following information about the sending data.
+Request header includes: method, authority, path, scheme, referee, etc.
+Response header includes: accept-ranges, cache-control, last-modified-date, content-language, etc.
+9. http://somesite.com/some/page.html -> 
+http: follow http protocol( a way of communicate browser and server)
+Somesite.com: instead of IP address, use Hostname to say what web address you want to go.
+/some/page.html: what kind of resource you want to see inside of the web server, more specifying.
+
+
+
